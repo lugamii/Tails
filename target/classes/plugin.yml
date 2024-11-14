@@ -1,0 +1,5 @@
+main: dev.lugami.tails.Tails
+name: Tails
+author: Lugami
+version: 1.0.0
+description: ${project.description}
